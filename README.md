@@ -27,4 +27,8 @@ Please be warned however, XinaA15 is a **in-development jailbreak** that is curr
 # Screenshots of XinaA15: 1.1.7.2
 ![IMG_MIX](https://user-images.githubusercontent.com/73033672/222864141-104f3436-df6a-445b-bfa2-54a7b88c7bba.PNG)
 
-
+### My Websites
+* <a href="https://idevicecentral.com">Latest iOS 16 Jailbreak News</a>
+* <a href="https://gametutorialpro.com">Latest Gaming News & Guides</a>
+* <a href="https://jailbreak.fce365.info">iOS Jailbreak Forum</a>
+* <a href="https://gsmbypass.com">Latest FRP Bypass Tools & Guides</a>
